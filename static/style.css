@@ -1,10 +1,10 @@
 :root {
     /* Нагадайте учням про змінні */
-    --color-primary: #304ffe;
-    --color-primary-darker: #0026ca;
-    --color-accent: #FF7939;
-    --color-accent-darker: #f07136;
-    --color-white: #ffffff;
+    --color-primary: #FFD700;
+    --color-primary-darker: #FF8C00;
+    --color-accent: #006400;
+    --color-accent-darker: #62e312;
+    --color-white: #228B22;
     --header-height: 4.5rem;
 }
 
